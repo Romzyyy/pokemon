@@ -10,4 +10,17 @@
     display: flex;
     justify-content: space-around;
     padding: 3%;
+    cursor: pointer;
+}
+
+.container h2{
+    padding: 10px;
+}
+
+.container #detail{
+    padding: 10px;
+}
+
+.container #detail img{
+   width: 300px;
 }
